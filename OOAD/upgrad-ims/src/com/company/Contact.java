@@ -1,6 +1,6 @@
 package com.company;
 
-public class Customer {
+public class Contact {
     String name;
     String phone;
     String email;
